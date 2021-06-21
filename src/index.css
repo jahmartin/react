@@ -1,0 +1,44 @@
+
+.button-credit{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 32px;
+
+    position: absolute;
+    width: 401px;
+    height: 40px;
+    left: 64px;
+    top: 557px;
+
+    background: #0096FF;
+
+    box-shadow: 0px 16px 24px rgba(5, 152, 255, 0.1), 0px 2px 6px rgba(5, 152, 255, 0.08), 0px 0px 1px rgba(5, 152, 255, 0.08);
+    border-radius: 66px;
+}
+
+.title-home{
+    position: absolute;
+    width: 745px;
+    height: 252px;
+    left: 64px;
+    top: 241px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 150%;
+
+    color: #FFFFFF;
+}
+.container-title{
+    position: absolute;
+    width: 1440px;
+    height: 942px;
+    left: 0px;
+    top: 0px;
+
+    background: #00154B;
+}
